@@ -1,0 +1,14 @@
+/home/pc-jefferson-2223203778/ola-mundo/bin/Debug/net8.0/ola-mundo
+/home/pc-jefferson-2223203778/ola-mundo/bin/Debug/net8.0/ola-mundo.deps.json
+/home/pc-jefferson-2223203778/ola-mundo/bin/Debug/net8.0/ola-mundo.runtimeconfig.json
+/home/pc-jefferson-2223203778/ola-mundo/bin/Debug/net8.0/ola-mundo.dll
+/home/pc-jefferson-2223203778/ola-mundo/bin/Debug/net8.0/ola-mundo.pdb
+/home/pc-jefferson-2223203778/ola-mundo/obj/Debug/net8.0/ola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc-jefferson-2223203778/ola-mundo/obj/Debug/net8.0/ola-mundo.AssemblyInfoInputs.cache
+/home/pc-jefferson-2223203778/ola-mundo/obj/Debug/net8.0/ola-mundo.AssemblyInfo.cs
+/home/pc-jefferson-2223203778/ola-mundo/obj/Debug/net8.0/ola-mundo.csproj.CoreCompileInputs.cache
+/home/pc-jefferson-2223203778/ola-mundo/obj/Debug/net8.0/ola-mundo.dll
+/home/pc-jefferson-2223203778/ola-mundo/obj/Debug/net8.0/refint/ola-mundo.dll
+/home/pc-jefferson-2223203778/ola-mundo/obj/Debug/net8.0/ola-mundo.pdb
+/home/pc-jefferson-2223203778/ola-mundo/obj/Debug/net8.0/ola-mundo.genruntimeconfig.cache
+/home/pc-jefferson-2223203778/ola-mundo/obj/Debug/net8.0/ref/ola-mundo.dll
